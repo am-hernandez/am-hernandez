@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Polygon dApp.
 - 🌱 I’m currently learning Javascript, React, and Solidity.
 - 🤝 I’m looking to collaborate on open source, public goods, and decentralized applications.
