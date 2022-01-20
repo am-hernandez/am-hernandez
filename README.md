@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a simple savings dApp for deployment on Polygon.
+- 🔭 I’m currently working on a sidescroller.
 - 🌱 I’m currently learning Javascript, React, and Solidity.
 - 🤝 I’m looking to collaborate on open source, public goods, and decentralized applications.
 - 💬 Ask me about mushrooms and my other hobbies! 🍄 🎨 🏡
