@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a sidescroller.
+- 🔭 I’m currently working on passion projects and algos! 
 - 🌱 I’m currently learning Javascript, React, and Solidity.
 - 🤝 I’m looking to collaborate on open source, public goods, and decentralized applications.
-- 💬 Ask me about mushrooms and my other hobbies! 🍄 🎨 🏡
+- 💬 Ask me about cultivating mushrooms! 🍄 🎨 🏡
 - 📬 Reach out to me on [LinkedIn](https://www.linkedin.com/in/angel-hernandez-6a5156216/)
 
 #### Top Technologies
