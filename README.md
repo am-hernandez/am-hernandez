@@ -20,5 +20,5 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=am-hernandez&show_icons=true)](https://github.com/am-hernandez)\
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=am-hernandez&show_icons=true)](https://github.com/am-hernandez)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-hernandez&layout=compact)](https://github.com/am-hernandez) -->
