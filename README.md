@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on passion projects and algos! 
 - 🌱 I’m currently learning Javascript, React, and Solidity.
 - 🤝 I’m looking to collaborate on open source, public goods, and decentralized applications.
-- 💬 Ask me about cultivating mushrooms! 🍄 🎨 🏡
+- 💬 Ask me about cultivating mushrooms! 🍄
 - 📬 Reach out to me on [LinkedIn](https://www.linkedin.com/in/angel-hernandez-6a5156216/)
 
 ---
