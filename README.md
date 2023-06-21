@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on passion projects and algos! 
+- 🔭 I’m currently working on passion projects, algos, and being a CSE at [Magic Labs](https://github.com/magiclabs)! 
 - 🌱 I’m currently learning Javascript, React, and Solidity.
 - 🤝 I’m looking to collaborate on open source, public goods, and decentralized applications.
 - 💬 Ask me about cultivating mushrooms! 🍄
@@ -21,7 +21,7 @@
 ![Redux Badge](https://img.shields.io/badge/-Redux-_?style=plastic&logo=redux&labelColor=black&color=764ABC)
 
 
----
+<!-- --- -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=am-hernandez&show_icons=true)](https://github.com/am-hernandez)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=am-hernandez&show_icons=true)](https://github.com/am-hernandez) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-hernandez&layout=compact)](https://github.com/am-hernandez) -->
